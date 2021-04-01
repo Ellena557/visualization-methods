@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="tree" edgedefault="directed">
+    <node id="V0"/>
+    <node id="V1"/>
+    <node id="V2"/>
+    <node id="V3"/>
+    <node id="V4"/>
+    <node id="V5"/>
+    <node id="V6"/>
+    <node id="V7"/>
+    <node id="V8"/>
+    <node id="V9"/>
+    <node id="V10"/>
+    <node id="V11"/>
+    <node id="V12"/>
+    <node id="V13"/>
+    <node id="V14"/>
+    <node id="V15"/>
+    <node id="V16"/>
+    <node id="V17"/>
+    <node id="V18"/>
+    <node id="V19"/>
+    <node id="V20"/>
+    <node id="V21"/>
+    <node id="V22"/>
+    <node id="V23"/>
+    <node id="V24"/>
+    <node id="V25"/>
+    <node id="V26"/>
+    <node id="V27"/>
+    <node id="V28"/>
+    <node id="V29"/>
+    <node id="V30"/>
+    <node id="V31"/>
+    <node id="V32"/>
+    <node id="V33"/>
+    <node id="V34"/>
+    <node id="V35"/>
+    <node id="V36"/>
+    <edge source="V0" target="V1"/>
+    <edge source="V0" target="V35"/>
+    <edge source="V35" target="V36"/>
+    <edge source="V1" target="V2"/>
+    <edge source="V1" target="V3"/>
+    <edge source="V3" target="V4"/>
+    <edge source="V3" target="V16"/>
+    <edge source="V4" target="V5"/>
+    <edge source="V5" target="V6"/>
+    <edge source="V5" target="V9"/>
+    <edge source="V6" target="V7"/>
+    <edge source="V6" target="V8"/>
+    <edge source="V9" target="V10"/>
+    <edge source="V9" target="V13"/>
+    <edge source="V10" target="V11"/>
+    <edge source="V10" target="V12"/>
+    <edge source="V13" target="V14"/>
+    <edge source="V14" target="V15"/>
+    <edge source="V16" target="V17"/>
+    <edge source="V16" target="V18"/>
+    <edge source="V18" target="V19"/>
+    <edge source="V18" target="V25"/>
+    <edge source="V19" target="V20"/>
+    <edge source="V20" target="V24"/>
+    <edge source="V20" target="V21"/>
+    <edge source="V21" target="V22"/>
+    <edge source="V22" target="V23"/>
+    <edge source="V25" target="V26"/>
+    <edge source="V25" target="V31"/>
+    <edge source="V26" target="V27"/>
+    <edge source="V26" target="V28"/>
+    <edge source="V28" target="V29"/>
+    <edge source="V29" target="V30"/>
+    <edge source="V31" target="V33"/>
+    <edge source="V31" target="V32"/>
+    <edge source="V33" target="V34"/>
+  </graph>
+</graphml>
